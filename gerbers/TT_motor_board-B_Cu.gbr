@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-06-05T02:24:24-04:00*%
+%TF.ProjectId,TT_motor_board,54545f6d-6f74-46f7-925f-626f6172642e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-06-05 02:24:24*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10O,4.000000X3.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J4,1,Pin_1*%
+%TO.N,Net-(J2-Pin_1)*%
+X129000000Y-96750000D03*
+%TD*%
+%TO.P,J3,1,Pin_1*%
+%TO.N,Net-(J1-Pin_1)*%
+X120000000Y-96749998D03*
+%TD*%
+M02*
